@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'JKUN BLOCK’',
-  domain: 'https://road-town-7c7.notion.site/924076281f0c4636912f803a7204e38b',
-  author: 'JKUN',
+  name: 'JKUN27的区块链学习网站’',
+  domain: 'https://www.notion.so/JKUN27-ec758a0f0781458396b7678bf1775d02',
+  author: 'JKUN27',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
