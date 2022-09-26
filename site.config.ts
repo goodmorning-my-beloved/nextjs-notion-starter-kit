@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'JKUN27的区块链学习网站’',
-  domain: 'https://www.notion.so/JKUN27-ec758a0f0781458396b7678bf1775d02',
+  domain: 'https://road-town-7c7.notion.site/JKUN27-ec758a0f0781458396b7678bf1775d02',
   author: 'JKUN27',
 
   // open graph metadata (optional)
